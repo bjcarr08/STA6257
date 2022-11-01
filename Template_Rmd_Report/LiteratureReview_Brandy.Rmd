@@ -8,7 +8,7 @@ output:
     df_print: paged
     highlight: pygments
 course: STA6257 (Advance Statistical Modeling)
-bibliography: references.bib # file contains bibtex for references
+bibliography: "references.bib" # file contains bibtex for references
 always_allow_html: true # this allows to get PDF with HTML features
 ---
 
